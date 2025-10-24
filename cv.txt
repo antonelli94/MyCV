@@ -1,0 +1,107 @@
+***************************************************
+*                                                 *
+*               FRANCESCO ANTONELLI               *
+*              Web & Graphic Designer             *
+*                                                 *
+***************************************************
+
+===================
+==    CONTACTS   ==
+===================
+Email: fra.antonelli94@gmail.com
+Phone: +39 342.66.29.732
+Address: Viale Indipendenza, 14 - 70038, Terlizzi (BA), Italy
+LinkedIn: /francesco-antonelli
+
+===================
+==   ABOUT ME    ==
+===================
+Web and Graphic Designer with experience in responsive websites (WordPress, HTML, CSS, JavaScript).
+Currently working at GOAT Unconventional Agency, developing websites and creating graphics using Illustrator, Photoshop, and 3D content with Blender.
+Passionate about graphic design and new technologies.
+
+===================
+==     SKILLS    ==
+===================
+* Illustrator                 * Visual & Graphic Design
+* Photoshop                   * Animation
+* Blender                     * AI / LLM
+* Wordpress                   * Office
+* Shopify                     * Canva
+* SEO
+
+=======================
+==  WORK EXPERIENCE  ==
+=======================
+NOV 2021 - PRESENT
+Web & Graphic Designer
+GOAT - Unconventional Agency
+
+MAY - OCT 2021
+Web Designer
+Ideagency
+
+===================
+==   EDUCATION   ==
+===================
+2019 - HackAdemy (Aulab)
+  - Front-End Development (HTML5, CSS3, JS, Bootstrap, Unix Console, Git).
+  - Back-End Development (PHP, OOP, MySQL).
+  - Laravel (MVC, Blade Templating, Eloquent ORM, VueJS, Laravel Nova).
+  - Web Server Programming (Linux, Nginx), SEO, SEM, Hosting and DNS.
+  - Agile Scrum Methodology.
+
+===================
+==     EXTRA     ==
+===================
+Master's Degree | Cryptocurrencies & Bitcoin
+University of Bari Aldo Moro
+
+===================
+==    PROJECTS   ==
+===================
+
+---[ PROJECT 1: Edilmemi | Showroom ]---
+Developed the website for edilmemi.it, a company specializing in construction and renovations.
+I used WordPress to create a modern and professional site that highlights the services offered and the work portfolio.
+A responsive design was ensured for perfect navigation on any device, and targeted SEO was implemented to increase local visibility and generate new leads.
+
+---[ PROJECT 2: ND Rent Car | Car Rental ]---
+Developed the website for NDrentcar.it, specializing in car and van rentals.
+I used WordPress to create a modern and functional platform, ensuring a responsive design and integrating an online booking system to facilitate user interaction.
+An SEO strategy was implemented to improve search engine rankings and attract new customers.
+
+---[ PROJECT 3: GOAT | Digital Agency ]---
+Developed the website for Goat Italia, a communication agency specializing in branding and digital strategies.
+I used WordPress to create a showcase that reflects the brand's bold and modern identity, prioritizing its services and portfolio.
+The minimal and impactful design, combined with perfect responsiveness, was crafted to attract clients and communicate their "Greatest Of All Time" philosophy.
+
+---[ PROJECT 4: Hanami | Japanese Experience ]---
+Built on the WordPress platform, this site was designed to enhance the restaurant's atmosphere through a high-impact visual design, ensuring a fluid user experience on any device.
+An interactive digital menu and an online reservation system were integrated to optimize customer management.
+
+---[ PROJECT 5: Pashà | Fine Dining ]---
+Created the website for Ristorante Pashà, a 1-star Michelin restaurant.
+Developed in WordPress, the project translates the venue's elegance into an immersive digital experience with a minimal design and strong visual impact.
+Perfect responsive navigation was guaranteed, integrating a booking system and a narrative that showcases the chef's philosophy and prestigious gastronomic offer.
+
+---[ PROJECT 6: EUZ | Food & Branding ]---
+Created the digital showcase for Euz, a brand specializing in gourmet "schiacciate".
+Built on WordPress, the site was designed to convey the brand's playful identity through an intuitive and mobile-first interface.
+Special attention was given to the menu presentation, making it the core of the online experience.
+The SEO strategy was structured to maximize local visibility and attract customers directly to the point of sale.
+
+---[ PROJECT 7: Zero.ZeroZero | Gourmet Pizzeria ]---
+Developed the site for Zero.ZeroZero, a pizzeria that elevates pizza to a gourmet experience.
+I used WordPress to create a digital platform reflecting the venue's philosophy of lightness and quality.
+The elegant and immersive design uses visual storytelling to emphasize the dough and ingredients.
+A perfect responsive user experience was ensured and targeted SEO was implemented to position the pizzeria as a reference point for a demanding clientele.
+
+---[ PROJECT 8: Frankino's | Contemporary Pizzeria ]---
+Created the digital showcase for Frankino's, a pizzeria with a rich and creative offering.
+The project features a dynamic one-page design where a special scroll animation "rotates" photos of the pizzas, guiding the user to discover the menu in an original way.
+Built on WordPress, the site combines a strong visual impact with perfect functionality, strengthening the brand and optimizing the user experience on every device.
+
+-----------------------------------------------------------------------------------------------------
+I authorize the processing of my personal data present in this CV pursuant to the Legislative Decree 30 June 2003, n. 196 "Code regarding the protection of personal data" and the GDPR (EU Regulation 2016/679).
+-----------------------------------------------------------------------------------------------------

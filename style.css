@@ -1,0 +1,47 @@
+/* Stile di base della pagina */
+body {
+    background-color: #121212;
+    color: #EAEAEA;
+    font-family: monospace;
+    margin: 0;
+    overflow: hidden; /* Nasconde le scrollbar e gli elementi che escono dallo schermo */
+    cursor: default; /* Cursore standard */
+}
+
+/* Stile per ogni singolo testo che appare */
+.fly-text {
+    position: absolute; /* Fondamentale per posizionarlo ovunque */
+    color: #ffffff;
+    font-size: 1.5em; /* Dimensione del testo */
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+    white-space: nowrap; /* Impedisce al testo di andare a capo */
+    user-select: none; /* Impedisce la selezione del testo */
+
+    /* Collega l'elemento all'animazione definita sotto */
+    animation: spawnAndFade 2.5s linear;
+}
+
+/* Definizione dell'animazione (Keyframes) */
+@keyframes spawnAndFade {
+    0% {
+        opacity: 0;
+        transform: scale(0.5); /* Parte piccolo e invisibile */
+    }
+    20% {
+        opacity: 1; /* Appare velocemente */
+    }
+    80% {
+        opacity: 1; /* Rimane visibile */
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1.5); /* Scompare diventando più grande */
+    }
+}
+
+/* Stile aggiuntivo per il testo "open console" */
+.fly-text.highlight {
+    color: #fff1c1; /* Un colore diverso, come l'oro o il giallo */
+    font-size: 1.5em; /* Leggermente più grande per attirare l'attenzione */
+}
