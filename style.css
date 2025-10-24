@@ -2,7 +2,7 @@
 
 body {
     background-color: #121212;
-    color: #EAEAEA;
+    color: #FFFFFF;
     font-family: 'Micro 5', monospace; 
     margin: 0;
     overflow: hidden;
@@ -14,7 +14,7 @@ body {
 
 #central-text {
     font-family: 'Micro 5', monospace;
-    font-size: 5em;
+    font-size: 4em;
     font-weight: normal;
     color: #00ff95;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
