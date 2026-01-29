@@ -65,3 +65,72 @@ body {
     80% { clip-path: inset(90% 0 5% 0); }
     100% { clip-path: inset(40% 0 41% 0); }
 }
+
+/* Stile per il Terminale Mobile */
+#mobile-terminal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 10, 10, 0.95);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    font-family: monospace; /* O usa 'Micro 5' se preferisci */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.terminal-header {
+    display: flex;
+    align-items: center;
+    background: #333;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+    color: #ddd;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.red { background-color: #ff5f56; }
+.yellow { background-color: #ffbd2e; }
+.green { background-color: #27c93f; }
+
+.title {
+    margin-left: 10px;
+    font-size: 14px;
+    flex-grow: 1;
+}
+
+.close-btn {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0 10px;
+}
+
+#terminal-content {
+    background-color: #000;
+    color: #00ff95; /* Verde hacker */
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 15px;
+    white-space: pre-wrap; /* Mantiene la formattazione del TXT */
+    font-size: 14px; /* Leggibile su mobile */
+    line-height: 1.4;
+    border: 1px solid #333;
+    border-top: none;
+}
+
+/* Facciamo capire che il testo centrale è cliccabile */
+#central-text {
+    cursor: pointer; 
+}
